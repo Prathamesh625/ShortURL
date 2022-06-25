@@ -1,0 +1,63 @@
+{
+
+
+  "homepage": ".",
+
+
+  "name": "shorturl",
+
+
+  "version": "1.0.0",
+
+
+  "description": "",
+
+
+  "main": "server.js",
+
+
+  "scripts": {
+
+
+    "start": "nodemon server.js",
+
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+
+  },
+
+
+  "author": "",
+
+
+  "license": "ISC",
+
+
+  "dependencies": {
+
+
+    "cors": "^2.8.5",
+
+
+    "express": "^4.17.3",
+
+
+    "mongoose": "^6.2.10",
+
+
+    "nodemon": "^2.0.15",
+
+
+    "short-id": "^0.1.0-1",
+
+
+    "valid-url": "^1.0.9"
+
+
+  }
+
+
+}
+
+
